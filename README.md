@@ -1,2 +1,6 @@
 # Snake-Water-Gun-Game
 The Snake Water Gun game in Python aimed to recreate the classic game dynamics for user-computer interaction. This project utilized Python to create a simple yet engaging game.
+The Snake Water Gun game project in Python aimed to create an interactive game allowing users to play against the computer.
+The procedure involved designing a game logic system based on conditional statements to determine the winner.
+Implementation of the game involved creating a function to evaluate the user's choice against the computer's random selection and determining the winner based on established game rules. The code was structured using functions to enhance separability and readability. 
+Challenges were encountered in handling user inputs and validating them to ensure correct gameplay. Strategies such as implementing error handling and user input validation were adopted to address these challenges. Testing procedures included creating diverse test cases covering various possible scenarios to validate the game's behavior. These tests confirmed the game's accuracy in determining the winner based on the selected choices.![image](https://github.com/nishant070504/Snake-Water-Gun-Game/assets/145639725/1bea18c0-ec31-4d61-a6d8-358bb8db9c65)
